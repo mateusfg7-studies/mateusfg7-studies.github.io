@@ -27,11 +27,7 @@ params:
   # navTitleText: Cupper Theme
   logoAlt: Just Me
   customCss:
-    - css/custom_01.css
-    - css/custom_02.css
-  customJs:
-    - js/custom_01.js
-    - js/custom_02.js
+    - css/custom.css
 
 menu:
   nav:
