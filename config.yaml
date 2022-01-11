@@ -22,8 +22,8 @@ params:
   katex: true
   hideHeaderLinks: false
   search: true
-  showThemeSwitcher: true
-  defaultDarkTheme: false
+  showThemeSwitcher: false
+  defaultDarkTheme: true
   # navTitleText: Cupper Theme
   logoAlt: Just Me
   customCss:
